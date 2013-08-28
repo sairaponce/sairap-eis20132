@@ -1,0 +1,7 @@
+¿Por qué el autor pone en duda la existencia de la disciplina Ingeniería de Software?
+
+En cierta manera se conocen las áreas involucradas, pero se desconoce qué tan indispensables son para conformar la disciplina Ingeniería de Software.
+
+	Además, los investigadores de la rama, rara vez desarrollan software y los desarrolladores no siempre se especializan en las "áreas base", ésto trae problemas de organización, creando discrepancias al tratar de definir la Ingeniería de Software.
+
+	Mientras no se aclaren dichas cuestiones que ahora resultan fundamentales, no podemos afirmar que existe dicha disciplina. 
