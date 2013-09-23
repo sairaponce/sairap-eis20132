@@ -75,13 +75,13 @@ class Tenis
 
 	def calculate_games(p1,p2)
 
-		if(p1.num_points >= 6) and ((p1.num_points - p2.num_points) == 2)
+		if(p1.num_points >= 4) and ((p1.num_points - p2.num_points) == 2)
 			p1.num_games += 1
 			puts "Player1's num_games: #{p1.num_games}" 
 			puts "Player2's num_games: #{p2.num_games}"
 
 			p1.num_points = p2.num_points = 0
-		elsif(p2.num_points >= 6) and ((p2.num_points - p1.num_points) == 2)
+		elsif(p2.num_points >= 4) and ((p2.num_points - p1.num_points) == 2)
 			p2.num_games += 1
 			puts "Player1's num_games: #{p1.num_games}" 
 			puts "Player2's num_games: #{p2.num_games}"
