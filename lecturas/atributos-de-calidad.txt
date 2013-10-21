@@ -1,5 +1,15 @@
-Layers vs Tiers
+Interoperabilidad
 
-Los layers se utilizan para hacer divisiones lógicas de nuestro proyecto, para mejorar mantenimiento, además ayuda a reutilizar código. 
+La habilidad de un sistema/producto de trabajar con otros sistemas/productos sin esfuerzo especial  por parte del usuario.
+        - Red Temática IST IDEAS
 
-Los tiers son divisiones físicas, es como implementar los layers, se marca más la división porque además de separar el código de manera lógica, se separa físicamente.
+Habilidad de dos o más sistemas o componentes para intercambiar información y utilizar la información intercambiada
+        - El Instituto de Ingenieros Eléctricos y Electrónicos (IEEE)
+
+En nuestro contexto, básicamente es poder comunicar nuestro sistema con otros sistemas.
+
+La mayoría de organizaciones disponen de sistemas informáticos de diferentes fabricantes, diversidad que también se da en las bases de datos. Por lo tanto, las empresas se ven obligadas a mantener más de un sistema para la realizar una tarea, siendo difícil la extracción de toda la información ya que dicha informacion se encuentra aislada, en aplicaciones distintas. 
+
+Las tecnologías de información permiten a los sistemas, comunicarse y compartir información, utilizando un lenguaje común.
+
+XML es el estándar por default en la mayoría de las aplicaciones modernas.
