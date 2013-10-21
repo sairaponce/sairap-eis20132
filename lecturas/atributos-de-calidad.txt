@@ -1,0 +1,5 @@
+Layers vs Tiers
+
+Los layers se utilizan para hacer divisiones lógicas de nuestro proyecto, para mejorar mantenimiento, además ayuda a reutilizar código. 
+
+Los tiers son divisiones físicas, es como implementar los layers, se marca más la división porque además de separar el código de manera lógica, se separa físicamente.
